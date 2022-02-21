@@ -1,5 +1,17 @@
+
 <?php
-echo "hello world"; 
+/*echo "hello world"; 
 $name = "just started";
-echo $name;
+echo $name;*/
+
+$a = "hello";
+$hello = "John";
+echo $$a;
+
+
 ?>
+
+
+
+
+
